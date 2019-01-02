@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6815cd08-9be0-4159-b65e-9ba36a4d9110" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/css/icons-extra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/css/mui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/css/mui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/fonts/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/fonts/mui-icons-extra.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/fonts/mui.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/js/mui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/lib/mui/js/mui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/dist/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/dist/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/dist/js/swiper.esm.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/dist/js/swiper.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/dist/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/dist/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/dist/js/swiper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/package.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/scripts/banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/scripts/build-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/scripts/build-js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/scripts/build-less.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/scripts/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/a11y/a11y.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/a11y/a11y.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/autoplay/autoplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/controller/controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/controller/controller.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/breakpoints/getBreakpoint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/breakpoints/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/breakpoints/setBreakpoint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/check-overflow/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/classes/addClasses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/classes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/classes/removeClasses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/core-class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/events/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/events/onClick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/events/onResize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/events/onTouchEnd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/events/onTouchMove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/events/onTouchStart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/grab-cursor/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/grab-cursor/setGrabCursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/grab-cursor/unsetGrabCursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/images/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/images/loadImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/images/preloadImages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/loop/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/loop/loopCreate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/loop/loopDestroy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/loop/loopFix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/manipulation/addSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/manipulation/appendSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/manipulation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/manipulation/prependSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/manipulation/removeAllSlides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/manipulation/removeSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/slide/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/slide/slideNext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/slide/slidePrev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/slide/slideReset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/slide/slideTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/slide/slideToClickedSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/slide/slideToClosest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/slide/slideToLoop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/transition/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/transition/setTransition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/transition/transitionEnd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/transition/transitionStart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/translate/getTranslate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/translate/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/translate/maxTranslate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/translate/minTranslate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/translate/setTranslate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateActiveIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateAutoHeight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateClickedSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateProgress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateSize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateSlides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateSlidesClasses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateSlidesOffset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/core/update/updateSlidesProgress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/effect-coverflow/effect-coverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/effect-coverflow/effect-coverflow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/effect-cube/effect-cube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/effect-cube/effect-cube.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/effect-fade/effect-fade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/effect-fade/effect-fade.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/effect-flip/effect-flip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/effect-flip/effect-flip.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/hash-navigation/hash-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/history/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/keyboard/keyboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/lazy/lazy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/lazy/lazy.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/mousewheel/mousewheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/navigation/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/navigation/navigation.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/pagination/pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/pagination/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/parallax/parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/scrollbar/scrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/scrollbar/scrollbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/thumbs/thumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/thumbs/thumbs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/virtual/virtual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/zoom/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/components/zoom/zoom.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/modules/browser/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/modules/device/device.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/modules/observer/observer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/modules/resize/resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/modules/resize/resize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/modules/support/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/swiper.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/utils/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/utils/class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/utils/device.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/utils/dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/utils/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-cli-demo/static/js/swiper/src/utils/utils.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1527224720">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1905" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6815cd08-9be0-4159-b65e-9ba36a4d9110" name="默认更改列表" comment="" />
+      <created>1546429420805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546429420805</updated>
+      <workItem from="1546429438958" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1524" height="800" extended-state="0" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
