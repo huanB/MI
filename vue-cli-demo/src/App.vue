@@ -1,13 +1,14 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <router-view/>
   </div>
 </template>
 
 <script>
+  import IconCss from "../static/css/iconfont.css"
 export default {
-  name: 'App'
+  name: 'App',
+  components:{IconCss,},
 }
 </script>
 

@@ -1,59 +1,43 @@
 @charset "utf-8";
 /* CSS Document */
-body,
-div,
-p,
-ul,
-ol,
-li,
-dl,
-dt,
-dd,
-table,
-tr,
-td,
-th,
-form,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-input,
-textarea {
-    margin: 0;
-    padding: 0;
+body,p,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,td,input,select,option,textarea{
+  margin:0;
+  padding:0;
 }
-
-html {
-    font-size: 16px;
+html,body{
+  height:100%;
+  background:#f0f0f0;
+  /*overflow-y: hidden;*/
 }
-
-html,
-body {
-    height: 100%;
+html{
+  font-size:26.67vw;
+  /*height:100%;*/
 }
-
-body {
-    font-family: "微软雅黑", Arial;
-    display: flex;
-    flex-direction: column;
+body{
+  font-family:"微软雅黑",Arial;
+  display:flex;
+  flex-direction:column;
+  /*overflow-y: auto;*/
+  /*overflow: hidden;*/
 }
-
-ul,
-ol {
-    list-style: none;
+a{
+  text-decoration:none;
+  color: #000;
 }
-
-a {
-    text-decoration: none;
+ul,ol{
+  list-style:none;
 }
-
-img {
-    border: 0;
-    display: block;
+img{
+  border:none;
+  display:block;
 }
-
-
-
+em{
+  font-style: normal;
+}
+input{
+  border: none;
+  outline: none;
+}
+b{
+  font-weight: normal;
+}
