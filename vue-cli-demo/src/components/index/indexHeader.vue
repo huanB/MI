@@ -1,36 +1,40 @@
+<!--:key="n" v-for="(i,n) in inx"
+{{i.nava}}
+props:["inx"]
+-->
 <template>
     <header>
       <ul class="he-ul">
-        <li class="he-li">
-          <a href="javascript:;">推荐</a>
-        </li>
-        <li class="he-li">
+        <router-link tag="li" to="IndexPhone" class="he-li">
+          <a class="li-a" href="javascript:;">推荐sdafdsgfdsg</a>
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">小米感恩季</a>
-        </li>
-        <li class="he-li">
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">手机</a>
-        </li>
-        <li class="he-li">
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">智能</a>
-        </li>
-        <li class="he-li">
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">电视</a>
-        </li>
-        <li class="he-li">
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">笔记本</a>
-        </li>
-        <li class="he-li">
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">生活周边</a>
-        </li>
-        <li class="he-li">
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">家电</a>
-        </li>
-        <li class="he-li">
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">新款游戏本</a>
-        </li>
-        <li class="he-li">
+        </router-link>
+        <router-link tag="li" to="" class="he-li">
           <a href="javascript:;">影音娱乐</a>
-        </li>
+        </router-link>
       </ul>
       <div class="he-opt">
         <a href="javascript:;">
@@ -41,8 +45,24 @@
 </template>
 
 <script>
+    import $ from "jquery"
     export default {
-        name: "indexHeader"
+        name: "indexHeader",
+        mounted(){
+          $(".he-li").click(function(){
+            $(this).children().css({
+              "color":"red",
+              "border-bottom": ".03rem solid #ff4a00"
+            })
+            $(this).siblings().children().css({
+              "color":"#999999",
+              "border-bottom": "none"
+            })
+          })
+        },
+        methods:{
+
+        }
     }
 </script>
 
@@ -50,13 +70,13 @@
   header{
     width: 100%;
     height: .3rem;
-    background: red;
+    /*background: red;*/
     display: -webkit-flex;
   }
   header .he-ul{
     width: 4rem;
     height:100%;
-    background: #4cd964;
+    /*background: #4cd964;*/
     display: -webkit-flex;
     overflow: auto;
   }
@@ -64,7 +84,7 @@
     flex-shrink: 0;
     height: 100%;
     padding: 0rem .13rem;
-    background: blue;
+    /*background: blue;*/
     display: -webkit-flex;
     /*align-items: center;*/
   }
@@ -82,7 +102,7 @@
   header .he-opt{
     width: .6rem;
     height: 100%;
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
     /*box-shadow:   0rem  0rem .2rem -0.1rem red;*/
   }
   .he-opt a{
